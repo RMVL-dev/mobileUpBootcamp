@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">5dp</dimen>
+    <dimen name="mainTextSize">18sp</dimen>
+    <dimen name="slaveTextSize">20sp</dimen>
+    <dimen name="corners">50dp</dimen>
+    <dimen name="imageSize">65</dimen>
+</resources>
